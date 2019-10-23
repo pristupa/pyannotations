@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyannotations",
-    version="0.0.1",
+    version="0.0.2",
     author="Pavel V. Pristupa",
     author_email="pristupa@gmail.com",
     description="Annotating Python classes with decorators",
